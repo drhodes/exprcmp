@@ -1,0 +1,8 @@
+
+
+* dealing with trig identities and exponentials.
+Don't maintain a huge list of identities to search through, find a
+common representation like infinite sums that are readily comparable
+and 
+
+
